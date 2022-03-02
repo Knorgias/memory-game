@@ -1,0 +1,11 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box; /* tells the browser to account for margin & padding in the values for width and height */
+}
+
+body {
+  height: 100vh; /* 100% of viewport height */
+  display: flex;
+  background: darkgoldenrod;
+}

@@ -1,0 +1,14 @@
+{
+  "name": "memory-game",
+  "author": "K Norgias",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "wds --node-resolve --open --watch"
+  },
+  "dependencies": {
+    "lit": "^2.2.0"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.1.30"
+  }
+}
